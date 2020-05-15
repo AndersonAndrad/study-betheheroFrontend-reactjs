@@ -22,7 +22,7 @@ export default function Logon() {
             entrar
           </button>
 
-          <Link to="/register">
+          <Link to="/register" className="back-link">
             <FiLogIn size={16} color={'#e02041'} />
             nao tenho cadastro
           </Link>
