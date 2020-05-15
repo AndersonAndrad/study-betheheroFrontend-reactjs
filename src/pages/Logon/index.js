@@ -1,4 +1,5 @@
 import React from 'react';
+import { Link } from 'react-router-dom';
 import './styles.css';
 
 // images
@@ -21,10 +22,10 @@ export default function Logon() {
             entrar
           </button>
 
-          <a href="/register">
+          <Link to="/register">
             <FiLogIn size={16} color={'#e02041'} />
             nao tenho cadastro
-          </a>
+          </Link>
         </form>
       </section>
       <img src={herosImg} alt="heros" />
