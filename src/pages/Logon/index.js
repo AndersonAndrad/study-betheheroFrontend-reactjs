@@ -33,22 +33,20 @@ export default function Logon() {
         <img src={logoImg} alt="logo" />
 
         <form onSubmit={handleLogin}>
-          <h1>faca o seu logon</h1>
+          <h1>Make your login</h1>
 
           <input
             type="text"
-            placeholder="your id"
+            placeholder="Your id"
             value={id}
             onChange={(event) => setID(event.target.value)}
           />
           <button type="submit" className="button">
-            {' '}
-            entrar
+            Log in
           </button>
 
           <Link to="/register" className="back-link">
-            <FiLogIn size={16} color={'#e02041'} />
-            nao tenho cadastro
+            <FiLogIn size={16} color={'#e02041'} /> I don't have a registration
           </Link>
         </form>
       </section>

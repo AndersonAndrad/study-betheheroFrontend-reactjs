@@ -44,51 +44,51 @@ export default function Register() {
       <div className="content">
         <section>
           <img src={logoImg} alt="be the hero" />
-          <h1>cadastro</h1>
+          <h1>Registration</h1>
           <p>
-            faca seu cadastro, entre na plataforma e ajude pessoas a encontrarem
-            os casos da sua ONG
+            Register, enter the platform and help find the cases of your NGO
           </p>
 
           <Link className="back-link" to="/">
-            <FiArrowLeft size={16} color="#e02041" /> ja possuo cadastro
+            <FiArrowLeft size={16} color="#e02041" /> I already have
+            registration
           </Link>
         </section>
 
         <form onSubmit={handleRegister}>
           <input
             type="text"
-            placeholder="nome da ong"
+            placeholder="Name of ONG"
             value={name}
             onChange={(event) => setName(event.target.value)}
           />
           <input
             type="email"
-            placeholder="e-mail"
+            placeholder="E-mail"
             value={email}
             onChange={(event) => setEmail(event.target.value)}
           />
           <input
-            placeholder="whatsapp"
+            placeholder="Whatsapp"
             value={whatsapp}
             onChange={(event) => setWhatsapp(event.target.value)}
           />
 
           <div className="input-group">
             <input
-              placeholder="cidade"
+              placeholder="City"
               value={city}
               onChange={(event) => setCity(event.target.value)}
             />
             <input
-              placeholder="uf"
+              placeholder="Uf"
               style={{ width: 80 }}
               value={uf}
               onChange={(event) => setUf(event.target.value)}
             />
           </div>
 
-          <button className="button">cadastrar</button>
+          <button className="button">Register</button>
         </form>
       </div>
     </div>

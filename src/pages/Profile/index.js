@@ -52,10 +52,10 @@ export default function Profile() {
     <div className="profile-container">
       <header>
         <img src={logoImg} alt="Be the hero" />
-        <span>bem vindo, {ongName}</span>
+        <span>Welcome, {ongName}</span>
 
         <Link className="button" to="/incidents/new">
-          Cadastrar novo caso
+          Register new case
         </Link>
 
         <button type="button" onClick={handleLogout}>
@@ -63,18 +63,18 @@ export default function Profile() {
         </button>
       </header>
 
-      <h1>casos cadastrados</h1>
+      <h1>Registered cases </h1>
 
       <ul>
         {incidents.map((incident) => (
           <li key={incident.id}>
-            <strong>CASO:</strong>
+            <strong>Case :</strong>
             <p>{incident.title}</p>
 
-            <strong>DESCRICOES:</strong>
+            <strong>Descriptions :</strong>
             <p>{incident.description}</p>
 
-            <strong>VALOR:</strong>
+            <strong>Value :</strong>
             <p>
               {Intl.NumberFormat('pt-BR', {
                 style: 'currency',
