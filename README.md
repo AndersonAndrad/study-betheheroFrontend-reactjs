@@ -14,7 +14,7 @@ The project was developed over the one week course of Rocketseat, from the eleve
 - axios
 
 ### How  is the application 
-
+*watch the system video*
 [![Watch the video](https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/main.png)](https://www.youtube.com/watch?v=-B1BWZ120m4&feature=youtu.be)
 
 <img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/main.png">
