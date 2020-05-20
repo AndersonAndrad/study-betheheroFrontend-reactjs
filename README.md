@@ -19,9 +19,9 @@ The project was developed over the one week course of Rocketseat, from the eleve
 
 <img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/main.png">
 
-<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/newregister.png">
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/profile.png">
 
-<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/nre.png">
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/newregister.png">
 
 ### 🚀 How to install the project
 
