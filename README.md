@@ -15,13 +15,13 @@ The project was developed over the one week course of Rocketseat, from the eleve
 
 ### How  is the application 
 
-[video]: https://youtu.be/-B1BWZ120m4	"Be the hero 1.0"
+[![Watch the video](https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/main.png)](https://www.youtube.com/watch?v=-B1BWZ120m4&feature=youtu.be)
 
-image1
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/main.png">
 
-image2
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/newregister.png">
 
-image3
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/images/nre.png">
 
 ### 🚀 How to install the project
 
