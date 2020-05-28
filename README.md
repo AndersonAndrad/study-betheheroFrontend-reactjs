@@ -1,3 +1,14 @@
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/src/assets/logo.svg">
+
+<p align="center">
+  <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-16.x-blue"></a>
+  <a href="https://nodejs.org/en/"><img src="https://img.shields.io/badge/Node-12.x-green"></a>
+</p>
+
+:iphone: [Mobile](https://github.com/AndersonAndrad/betheheroMobile)
+
+:computer:[Backend](https://github.com/AndersonAndrad/betheheroBackend)
+
 # Be the hero
 
 ###  :bulb: ​About the project
