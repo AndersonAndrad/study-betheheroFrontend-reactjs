@@ -1,4 +1,4 @@
-<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/src/assets/logo.svg">
+<img src="https://github.com/AndersonAndrad/betheheroFrontend/blob/master/src/assets/logo.svg" align="center">
 
 <p align="center">
   <a href="https://reactjs.org/"><img src="https://img.shields.io/badge/React-16.x-blue"></a>
